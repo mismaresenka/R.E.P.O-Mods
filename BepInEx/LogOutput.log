@@ -1,0 +1,32 @@
+[Message:   BepInEx] BepInEx 5.4.21.0 - REPO (3/6/2025 4:15:31 AM)
+[Info   :   BepInEx] Running under Unity v2022.3.21.12519882
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.21.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.MonoMod.HookGenPatcher 1.2.1.0]
+[Info   :   BepInEx] 2 patcher plugins loaded
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 3 plugins to load
+[Info   :   BepInEx] Loading [Menu Lib 2.0.0]
+[Debug  :  Menu Lib] Hooking `MenuPageMain.Start`
+[Debug  :  Menu Lib] Hooking `MenuPageEsc.Start`
+[Debug  :  Menu Lib] Hooking `MenuPageLobby.Start`
+[Debug  :  Menu Lib] Hooking `SemiFunc.UIMouseHover`
+[Info   :   BepInEx] Loading [REPO Config 1.1.7]
+[Debug  :REPO Config] Hooking `MenuPageMain.Start`
+[Info   :   BepInEx] Loading [MorePlayers 1.0.1]
+[Info   :zelofi.MorePlayers] zelofi.MorePlayers is now awake!
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] Odin Serializer ArchitectureInfo initialization with defaults (all unaligned read/writes disabled).
+[Info   : Unity Log] Odin Serializer detected whitelisted runtime platform WindowsPlayer and memory read test succeeded; enabling all unaligned memory read/writes.
+[Info   : Unity Log] VERSION: v0.1.2
+[Info   : Unity Log] STEAM ID: 76561198278050817
+[Info   : Unity Log] Getting Steam Auth Ticket...
+[Info   : Unity Log] Cancelling Steam Auth Ticket...
