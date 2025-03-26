@@ -1,32 +1,195 @@
-[Message:   BepInEx] BepInEx 5.4.21.0 - REPO (3/6/2025 4:15:31 AM)
+[Message:   BepInEx] BepInEx 5.4.23.2 - REPO (3/20/2025 5:06:52 AM)
 [Info   :   BepInEx] Running under Unity v2022.3.21.12519882
 [Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
 [Info   :   BepInEx] Supports SRE: True
 [Info   :   BepInEx] System platform: Bits64, Windows
 [Message:   BepInEx] Preloader started
-[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.21.0]
-[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.MonoMod.HookGenPatcher 1.2.1.0]
-[Info   :   BepInEx] 2 patcher plugins loaded
-[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
-[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.23.2]
+[Info   :   BepInEx] 1 patcher plugin loaded
 [Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 3 plugins to load
+[Info   :   BepInEx] 8 plugins to load
+[Info   :   BepInEx] Loading [FovUpdate 0.2.6]
+[Info   : FovUpdate] FovUpdate is loading with version 0.2.6!
+[Message: FovUpdate] TumbleAdjustment Transpiler Initialized
+[Message: FovUpdate] TumbleAdjustment patched crouchfov config!
+[ 1 ] lines changed
+[Info   : FovUpdate] FovUpdate load complete!
+[Info   :   BepInEx] Loading [NetworkConnect Mod By Kirigiri 1.0.0.0]
+[Info   :NetworkConnect Mod By Kirigiri] NetworkConnectMod has loaded!
+[Info   :NetworkConnect Mod By Kirigiri] Made with <3 By Kirigiri 
+https://discord.gg/zn2a2A65My
+[Info   :   BepInEx] Loading [MoreHead 1.2.8]
+[Message:  MoreHead] 
+
+ ███▄ ▄███▓ ▒█████   ██▀███  ▓█████  ██░ ██ ▓█████ ▄▄▄      ▓█████▄ 
+▓██▒▀█▀ ██▒▒██▒  ██▒▓██ ▒ ██▒▓█   ▀ ▓██░ ██▒▓█   ▀▒████▄    ▒██▀ ██▌
+▓██    ▓██░▒██░  ██▒▓██ ░▄█ ▒▒███   ▒██▀███░▒███  ▒██  ▀█▄  ░██   █▌
+▒██    ▒██ ▒██   ██░▒███▀█▄  ▒▓█  ▄ ░▓█ ░██ ▒▓█  ▄░██▄▄▄▄██ ░▓█▄   ▌
+▒██▒   ░██▒░ ████▓▒░░██▓ ▒██▒░▒████▒░▓█▒░██▓░▒████▒▓█   ▓██▒░▒████▓   v1.2.8
+░ ▒░   ░  ░░ ▒░▒░▒░ ░ ▒▓ ░▒▓░░░ ▒░ ░ ▒ ░░▒░▒░░ ▒░ ░▒▒   ▓▒█░ ▒▒▓  ▒ 
+░  ░      ░  ░ ▒ ▒░   ░▒ ░ ▒░ ░ ░  ░ ▒ ░▒░ ░ ░ ░  ░ ▒   ▒▒ ░ ░ ▒  ▒ 
+░      ░   ░ ░ ░ ▒    ░░   ░    ░    ░  ░░ ░   ░    ░   ▒    ░ ░  ░ 
+       ░       ░ ░     ░        ░  ░ ░  ░  ░   ░  ░     ░  ░   ░    
+
+[Info   :  MoreHead] 正在初始化装饰物管理器...
+[Info   :  MoreHead] 在plugins目录中找到 139 个.hhh文件
+[Info   :  MoreHead] 找到 139 个装饰物包文件
+[Info   :  MoreHead] - Decorations目录: 139 个文件
+[Info   :  MoreHead] 成功加载装饰物: Aku Aku, 标签: world
+[Info   :  MoreHead] 成功加载装饰物: AmyBackpack, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: BabyOilBelt, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: BackBow, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Backpack Bear, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Backpack Mask Sales, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: BambooCopter竹蜻蜓, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: BananaPeel, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Bandana Blue, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Bandana Orange, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Bandana Purple, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Bandana Red, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Banjo, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: BatmanBadge, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Ben10Badge, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: BlackMageHat, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: BlindEye盲视, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: BlueShell, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Bone Shell, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Bowser Shell, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Brows - Angry, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Brows - Raised, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Brows - Uni, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: BrowSad悲伤眉, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Brows, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: BuzzJetpack, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Cappy Hat, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Chains, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: ChocoboHead, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Cigar雪茄, 标签: neck
+[Info   :  MoreHead] 成功加载装饰物: ClownNose小丑鼻子, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Daisy Hair, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: DemonShuriken, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Diaper, 标签: hip
+[Info   :  MoreHead] 成功加载装饰物: DougDimmadomeHat, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Duck Beak Bottom, 标签: neck
+[Info   :  MoreHead] 成功加载装饰物: Duck Beak Top, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Dynamite, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Eyelashes, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Fairy (Green), 标签: world
+[Info   :  MoreHead] 成功加载装饰物: Fairy (Navi), 标签: world
+[Info   :  MoreHead] 成功加载装饰物: Fairy (Tael), 标签: world
+[Info   :  MoreHead] 成功加载装饰物: Fairy (Tatl), 标签: world
+[Info   :  MoreHead] 成功加载装饰物: Flintstone Cart, 标签: world
+[Info   :  MoreHead] 成功加载装饰物: Flying Eye, 标签: world
+[Info   :  MoreHead] 成功加载装饰物: FoxMask狐狸面具, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: GagGlasses, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Glasses眼镜, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: GokuHair, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: GreenShell, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: GrouchoGlasses, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Headlamp Helmet, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Hylian Shield, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: HylianHelmet, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: IceClimberHammer, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: IceClimberHat, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Kazooie, 标签: world
+[Info   :  MoreHead] 成功加载装饰物: King Cape, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Koopa Clown Cart, 标签: world
+[Info   :  MoreHead] 成功加载装饰物: KratosMarkBody, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: KratosMarkHead, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: KunHair坤发, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: LeprechaunHat, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Link Hat, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Link Tunic Bottom, 标签: hip
+[Info   :  MoreHead] 成功加载装饰物: Link Tunic Top, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Lip Bottom, 标签: neck
+[Info   :  MoreHead] 成功加载装饰物: Lip Top, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Luigi Hat, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Mario Hat, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: MarxHat, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Master Sword, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Mew, 标签: world
+[Info   :  MoreHead] 成功加载装饰物: Mohawk, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: MushroomHat, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Mustache - Luigi, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Mustache - Mario, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Mustache - Waluigi, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Mustache - Wario, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: NarutoHeadband, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: OdradekB奥卓德克B, 标签: neck
+[Info   :  MoreHead] 成功加载装饰物: Odradek奥卓德克, 标签: neck
+[Info   :  MoreHead] 成功加载装饰物: Old Beard, 标签: neck
+[Info   :  MoreHead] 成功加载装饰物: Old Brows, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Old Mustache, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Pacifer, 标签: neck
+[Info   :  MoreHead] 成功加载装饰物: PIGHEAD猪脑壳, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: PigNose猪鼻子, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Pikachu Tail, 标签: hip
+[Info   :  MoreHead] 成功加载装饰物: PikachuTail, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Piranha Bottom, 标签: neck
+[Info   :  MoreHead] 成功加载装饰物: Piranha Top, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: PowerRangerBadge, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: PowerStarBadge, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Primitive Teeth, 标签: neck
+[Info   :  MoreHead] 成功加载装饰物: PrincessPeachHair, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Purse, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Red Shell, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Rose, 标签: neck
+[Info   :  MoreHead] 成功加载装饰物: Saiyan Armor (Black), 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Saiyan Armor (White), 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Saiyan Tail Waist, 标签: hip
+[Info   :  MoreHead] 成功加载装饰物: Saiyan Tail, 标签: hip
+[Info   :  MoreHead] 成功加载装饰物: Sakuyas hairdo 十六夜头饰, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Samus Helmet, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Scouter, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: SexyJutsuHair, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: SheikahHair, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: ShoulderSpikes, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Skirt Black, 标签: hip
+[Info   :  MoreHead] 成功加载装饰物: Skirt Blue, 标签: hip
+[Info   :  MoreHead] 成功加载装饰物: Skirt Pink White, 标签: hip
+[Info   :  MoreHead] 成功加载装饰物: Skirt Red, 标签: hip
+[Info   :  MoreHead] 成功加载装饰物: Small flag小旗子, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: SonicBackpack, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: SpidermanBadge, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Spiked Collar, 标签: neck
+[Info   :  MoreHead] 成功加载装饰物: Starfish Mustache, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Straw草帽, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Tails Tails, 标签: hip
+[Info   :  MoreHead] 成功加载装饰物: TailsBackpack, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: TailsEar, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: TailsMustache, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: TailsTail, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Teddy Bear, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Teeth - Big Bottom, 标签: neck
+[Info   :  MoreHead] 成功加载装饰物: Teeth - Big Top, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Teeth板牙儿, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Tie - DK, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: Turtle Shell, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: VampireTeeth, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Vegeta Hair, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Volleyball, 标签: world
+[Info   :  MoreHead] 成功加载装饰物: Waluigi Hat, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Wario Hat, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: WWE Belt, 标签: hip
+[Info   :  MoreHead] 成功加载装饰物: XBandAidB胸口创口贴, 标签: body
+[Info   :  MoreHead] 成功加载装饰物: XBandAidH头部创口贴, 标签: head
+[Info   :  MoreHead] 成功加载装饰物: Yoshi Cart, 标签: world
+[Info   :  MoreHead] 装饰物管理器初始化完成，共加载了 139 个装饰物
+[Info   :  MoreHead] 已从JSON加载配置，包含 139 个装饰物状态
+[Info   :  MoreHead] 已从Unity存档位置加载配置: C:/Users/user/AppData/LocalLow/semiwork/REPO\REPOModData\MoreHead\MoreHeadConfig.json
+[Info   :  MoreHead] 已应用 139 个已保存的装饰物状态
 [Info   :   BepInEx] Loading [Menu Lib 2.0.0]
-[Debug  :  Menu Lib] Hooking `MenuPageMain.Start`
-[Debug  :  Menu Lib] Hooking `MenuPageEsc.Start`
-[Debug  :  Menu Lib] Hooking `MenuPageLobby.Start`
-[Debug  :  Menu Lib] Hooking `SemiFunc.UIMouseHover`
 [Info   :   BepInEx] Loading [REPO Config 1.1.7]
-[Debug  :REPO Config] Hooking `MenuPageMain.Start`
+[Info   :   BepInEx] Loading [Late Join 0.1.2]
+[Info   :   BepInEx] Loading [CustomColors 1.1.0]
+[Info   :CustomColors] Plugin CustomColors is loaded!
 [Info   :   BepInEx] Loading [MorePlayers 1.0.1]
 [Info   :zelofi.MorePlayers] zelofi.MorePlayers is now awake!
 [Message:   BepInEx] Chainloader startup complete
-[Info   : Unity Log] Odin Serializer ArchitectureInfo initialization with defaults (all unaligned read/writes disabled).
-[Info   : Unity Log] Odin Serializer detected whitelisted runtime platform WindowsPlayer and memory read test succeeded; enabling all unaligned memory read/writes.
-[Info   : Unity Log] VERSION: v0.1.2
-[Info   : Unity Log] STEAM ID: 76561198278050817
-[Info   : Unity Log] Getting Steam Auth Ticket...
-[Info   : Unity Log] Cancelling Steam Auth Ticket...
+[Info   :NetworkConnect Mod By Kirigiri] Steam client initialized with AppId 3241660
+[Info   :  MoreHead] MenuManager已初始化，正在初始化MoreHeadUI...
+[Info   :  MoreHead] 数据缓存初始化完成，共缓存了 6 个标签的装饰物数据
+[Info   :  MoreHead] MoreHead UI已初始化
