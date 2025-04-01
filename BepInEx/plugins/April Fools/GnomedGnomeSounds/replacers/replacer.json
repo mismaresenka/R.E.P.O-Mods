@@ -1,0 +1,164 @@
+{
+    "replacements": [
+        {
+            "matches": [
+			"*:enemy gnome notice01",
+			"*:enemy gnome notice02",
+			"*:enemy gnome notice03",
+			],
+            "sounds": [
+                {
+                    "sound": "GnomeTalk1.ogg",
+					"weight": 6
+                },
+                {
+                    "sound": "GnomeTalk2.ogg",
+					"weight": 3
+                },
+                {
+                    "sound": "GnomeTalk3.ogg",
+					"weight": 3
+                },
+                {
+                    "sound": "GnomeTalk4.ogg",
+					"weight": 6
+                },
+            ]
+        },
+        {
+            "matches": "*:enemy gnome jump",
+            "sounds": [
+                {
+                    "sound": "GnomeJump.ogg"
+                }
+            ]
+        },
+        {
+            "matches": "*:enemy gnome spawn",
+            "sounds": [
+                {
+                    "sound": "GnomeTalk4.ogg"
+                }
+            ]
+        },
+        {
+            "matches": "*:enemy gnome stun fly",
+            "sounds": [
+                {
+                    "sound": "GnomeStunLoop.ogg"
+                }
+            ]
+        },
+        {
+            "matches": "*:enemy gnome pickaxe tell",
+            "sounds": [
+                {
+                    "sound": "GnomeSwingPickaxe.ogg"
+                }
+            ]
+        },
+        {
+            "matches": [
+			"*:enemy gnome stun start01",
+			"*:enemy gnome stun start02",
+			"*:enemy gnome stun start03",
+			],
+            "sounds": [
+                {
+                    "sound": "Silence.ogg"
+                }
+            ]
+        },
+        {
+            "matches": [
+			"*:enemy gnome stun end01",
+			"*:enemy gnome stun end02",
+			"*:enemy gnome stun end03",
+			],
+            "sounds": [
+                {
+                    "sound": "Silence.ogg"
+                }
+            ]
+        },
+        {
+            "matches": [
+			"*:enemy gnome hurt01",
+			"*:enemy gnome hurt02",
+			"*:enemy gnome hurt03",
+			],
+            "sounds": [
+                {
+                    "sound": "GnomeDamage1.ogg",
+					"weight": 6
+                },
+                {
+                    "sound": "GnomeDamage2.ogg",
+					"weight": 6
+                },
+            ]
+        },
+        {
+            "matches": [
+			"*:enemy gnome idle break01",
+			"*:enemy gnome idle break02",
+			"*:enemy gnome idle break03",
+			],
+            "sounds": [
+                {
+                    "sound": "GnomeShortGiggle1.ogg",
+					"weight": 6
+                },
+                {
+                    "sound": "GnomeShortGiggle2.ogg",
+					"weight": 6
+                },
+                {
+                    "sound": "GnomeShortGiggle3.ogg",
+					"weight": 6
+                },
+            ]
+        },
+        {
+            "matches": [
+			"*:enemy gnome footstep01",
+			"*:enemy gnome footstep02",
+			"*:enemy gnome footstep03",
+			],
+            "sounds": [
+                {
+                    "sound": "GnomeFootstepSpeak1.ogg",
+					"weight": 2
+                },
+                {
+                    "sound": "GnomeFootstepSpeak2.ogg",
+					"weight": 2
+                },
+                {
+                    "sound": "GnomeFootstepSpeak3.ogg",
+					"weight": 2
+                },
+                {
+                    "sound": "GnomeFootstepSpeak4.ogg",
+					"weight": 2
+                },
+                {
+                    "sound": "GnomeFootstepSpeak5.ogg",
+					"weight": 2
+                },
+                {
+                    "sound": "enemy gnome footstep01.ogg",
+					"weight": 40
+                },
+                {
+                    "sound": "enemy gnome footstep02.ogg",
+					"weight": 40
+                },
+                {
+                    "sound": "enemy gnome footstep03.ogg",
+					"weight": 40
+                },
+            ]
+        }
+    ]
+}
